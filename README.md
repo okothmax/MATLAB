@@ -1,0 +1,1 @@
+this is the university project i undertook to predict the spread of covid19 in Kenya
